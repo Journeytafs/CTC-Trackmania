@@ -2,14 +2,14 @@ nav:
   - [Welcome:](index.md)
   - [General Progression Guide](docs/general-progression.md)
   - Main Campaigns:
-      - [Overview](docs/main-campaigns/overview.md)
-      - [Map List](docs/main-campaigns/map-list.md)
+      - [Overview](docs/main-campaigns/mainoverview.md)
+      - [Map List](docs/main-campaigns/mainmap-list.md)
   - Milestone Campaigns:
-      - [Overview](docs/milestone-campaigns/overview.md)
-      - [Map List](docs/milestone-campaigns/map-list.md)
+      - [Overview](docs/milestone-campaigns/milestoneoverview.md)
+      - [Map List](docs/milestone-campaigns/milestonemap-list.md)
   - Campaign 0:
-      - [Overview](docs/campaign-0/overview.md)
-      - [Map List](docs/campaign-0/map-list.md)
+      - [Overview](docs/campaign-0/0soverview.md)
+      - [Map List](docs/campaign-0/0smap-list.md)
   - [Tricks & Techniques](docs/tricks-techniques.md)
   - [Communities & Video Links](docs/communities-videos.md)
   - [Rejected Maps](docs/rejected-maps.md)
