@@ -1,5 +1,5 @@
 nav:
-  - Welcome: index.md
+  - [Welcome:](index.md)
   - General Progression Guide: docs/general-progression.md
   - Main Campaigns:
       - Overview: docs/main-campaigns/overview.md
