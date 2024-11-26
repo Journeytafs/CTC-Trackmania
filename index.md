@@ -5,6 +5,23 @@ Welcome to the Trackmania Project!
 Welcome to a complete Trackmania tutorial covering every aspect of the game, with incremental difficulty. Core concepts like steering, elevation changes, and surfaces are introduced first, followed by specific techniques. This campaign is intended as a comprehensive beginner's guide, transitioning players from basic mechanics to more advanced tricks and styles. When possible, I’ll feature community-created maps for niche styles like RPG and trial. Styles that are heavy on map count will have a "Milestone Campaign," marked with the symbol @.
 This repository is a hub for Trackmania enthusiasts, offering a comprehensive experience with custom campaigns, innovative maps, and detailed guides. Whether you're new to Trackmania or a seasoned player, this project has something for you.
 
+nav:
+  - [Welcome:](index.md)
+  - [General Progression Guide](docs/general-progression.md)
+  - Main Campaigns:
+      - [Overview](docs/main-campaigns/mainoverview.md)
+      - [Map List](docs/main-campaigns/mainmap-list.md)
+  - Milestone Campaigns:
+      - [Overview](docs/milestone-campaigns/milestoneoverview.md)
+      - [Map List](docs/milestone-campaigns/milestonemap-list.md)
+  - Campaign 0:
+      - [Overview](docs/campaign-0/0soverview.md)
+      - [Map List](docs/campaign-0/0smap-list.md)
+  - [Tricks & Techniques](docs/tricks-techniques.md)
+  - [Communities & Video Links](docs/communities-videos.md)
+  - [Rejected Maps](docs/rejected-maps.md)
+  - [Authors & Credits](docs/authors-credits.md)
+
 ## Table of Contents
 
 - **General Progression Guide**: Learn how to progress through campaigns effectively.
