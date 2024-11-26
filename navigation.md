@@ -1,0 +1,16 @@
+nav:
+  - Welcome: index.md
+  - General Progression Guide: docs/general-progression.md
+  - Main Campaigns:
+      - Overview: docs/main-campaigns/overview.md
+      - Map List: docs/main-campaigns/map-list.md
+  - Milestone Campaigns:
+      - Overview: docs/milestone-campaigns/overview.md
+      - Map List: docs/milestone-campaigns/map-list.md
+  - Campaign 0:
+      - Overview: docs/campaign-0/overview.md
+      - Map List: docs/campaign-0/map-list.md
+  - Tricks & Techniques: docs/tricks-techniques.md
+  - Communities & Video Links: docs/communities-videos.md
+  - Rejected Maps: docs/rejected-maps.md
+  - Authors & Credits: docs/authors-credits.md
